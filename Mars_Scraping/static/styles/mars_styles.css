@@ -1,0 +1,34 @@
+body {
+    background-color:rgb(151, 47, 28);
+    margin: 0 auto;
+}
+
+.jumbotron {
+    background-color:rgb(121, 118, 118); 
+    color:rgb(255, 255, 255); 
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.btn-scrape {
+    color: #fff;
+    background-color: #f0ad4e;
+    border-color: #eea236;
+}
+
+.btn-scrape:hover {
+    color: #fff;
+    background-color: #f0ad4e;
+    border-color: #eea236;
+}
+
+table {
+    margin: 0 auto;
+    background-color: #fff;
+}
+
+table tr td:hover, table tr th:hover {
+    background-color:rgb(151, 47, 28);
+    color: #fff;
+    cursor: pointer;
+}
+
